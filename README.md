@@ -9,6 +9,11 @@
 
 ![Ekran görüntüsü 2023-04-07 153357](https://user-images.githubusercontent.com/110555559/230611225-6dd529ae-f21e-4712-9e4d-b58562b56e6d.png)
 
+2. Finger Counting 🖐
+#
+[Source Code](https://github.com/defnebusecelik/image-processing-projects/blob/main/fingerCounting.py)
+
+
   
 ## Use Source Code
 
