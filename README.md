@@ -18,7 +18,10 @@
 
 #
 3.Dino Game Hacker 🦕
-#[Source Code](https://github.com/defnebusecelik/image-processing-projects/blob/main/dinogamehacker.py)
+#
+[Source Code](https://github.com/defnebusecelik/image-processing-projects/blob/main/dinogamehacker.py)
+
+#
 
 ## Use Source Code
 
